@@ -1,0 +1,27 @@
+{
+  "authentication": {
+    "cookie": "sessionid=4288523810%3A6bAFxAEhAN4KSK%3A11",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Instagram 105.0.0.11.118 (iPhone9,1; iOS 12_3_1; en_US; en-US; scale=2.00; 750x1334; 165586599)"
+  },
+  "info" : {
+    "apple_id": "1529006564",
+    "contact": "hakanerenprod@gmail.com",
+    "eula": "https://hakan.github.io/Festival/eula.html",
+    "privacy": "https://hakan.github.io/Festival/privacy.html",
+    "support": "https://hakan.github.io/Festival/support.html",
+    "terms": "https://hakan.github.io/Festival/terms.html"
+  },
+  "limits": {
+    "is_ads_enabled": true,
+    "feed": 5,
+    "profile": 1,
+    "profile_picture_hd": 1,
+    "save": 10,
+    "story": 5
+  },
+  "versions": {
+    "latest": "1.0",
+    "minimum": "1.0",
+    "next": "1.0"
+  }
+}
