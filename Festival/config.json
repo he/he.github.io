@@ -1,7 +1,8 @@
 {
   "authentication": {
-    "cookie": "sessionid=8781412805%3AOouD69a7Z25Eda%3A1; dd_user_id=8781412805;",
-    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Instagram 105.0.0.11.118 (iPhone9,1; iOS 12_3_1; en_US; en-US; scale=2.00; 750x1334; 165586599)"
+    "cookie": "sessionid=11589221756%3AioaWxoN2afwA1E%3A17; dd_user_id=11589221756;",
+		"sessionId": "10126683263%3Azp6JJuE9rhfrnK%3A18",
+		"userAgent": "Instagram 22.0.0.15.68 Android (23/6.0.1; 640dpi; 1440x2560; samsung; SM-G935F; hero2lte; samsungexynos8890; en_US)"
   },
   "info": {
     "apple_id": "1529006564",
