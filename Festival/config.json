@@ -5,7 +5,7 @@
     "userAgent": "Instagram 22.0.0.15.68 Android (23/6.0.1; 640dpi; 1440x2560; samsung; SM-G935F; hero2lte; samsungexynos8890; en_US)"
   },
   "info": {
-    "apple_id": "1529006564",
+    "apple_id": "1559436566",
     "contact": "hakanerenprod@gmail.com",
     "eula": "https://he.github.io/Festival/eula.html",
     "privacy": "https://he.github.io/Festival/privacy.html",
@@ -13,13 +13,13 @@
     "terms": "https://he.github.io/Festival/terms.html"
   },
   "limits": {
-    "is_ads_enabled": true,
+    "is_ads_enabled": false,
     "feed": 500,
-    "profile": 1,
-    "profile_picture_hd": 1,
-    "save": 1,
+    "profile": 100,
+    "profile_picture_hd": 100,
+    "save": 100,
     "story": 500,
-    "download": 1
+    "download": 100
   },
   "versions": {
     "latest": "1.0.0",
