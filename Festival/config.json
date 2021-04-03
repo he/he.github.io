@@ -22,8 +22,8 @@
     "download": 1
   },
   "versions": {
-    "latest": "1.0.0",
+    "latest": "1.0.1",
     "minimum": "1.0.0",
-    "next": "1.0.0"
+    "next": "1.0.1"
   }
 }
