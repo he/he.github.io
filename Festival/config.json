@@ -13,7 +13,7 @@
     "terms": "https://he.github.io/Festival/terms.html"
   },
   "limits": {
-    "is_ads_enabled": false,
+    "is_ads_enabled": true,
     "feed": 5,
     "profile": 1,
     "profile_picture_hd": 1,
