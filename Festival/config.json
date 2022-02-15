@@ -14,12 +14,12 @@
   },
   "limits": {
     "is_ads_enabled": true,
-    "feed": 5,
-    "profile": 1,
+    "feed": 500,
+    "profile": 100,
     "profile_picture_hd": 1,
-    "save": 1,
-    "story": 5,
-    "download": 1
+    "save": 100,
+    "story": 500,
+    "download": 100
   },
   "versions": {
     "latest": "1.0.1",
