@@ -13,13 +13,14 @@
     "terms": "https://he.github.io/Festival/terms.html"
   },
   "limits": {
-    "is_ads_enabled": true,
-    "feed": 500,
-    "profile": 100,
+    "is_ads_enabled": false,
+    "is_story_enabled": false,
+    "feed": 10,
+    "profile": 10,
     "profile_picture_hd": 1,
-    "save": 100,
-    "story": 500,
-    "download": 100
+    "save": 10,
+    "story": 10,
+    "download": 1
   },
   "versions": {
     "latest": "1.0.1",
